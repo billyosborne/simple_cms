@@ -2,6 +2,8 @@ class DemoController < ApplicationController
 
 	layout 'application'
 
+  #adding comment to test git, github, and git for mac
+
   def index
   	render('index')
   end
